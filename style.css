@@ -1,0 +1,29 @@
+#nasa {
+    background-image: url("astronaut-11080_1280.webp");
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 850px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    margin: auto;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+h1 {
+    font-size: 50pt;
+    color: white;
+    font-weight: bold;
+       
+}
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: auto;
+    
+
+}
